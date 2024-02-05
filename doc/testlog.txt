@@ -1,0 +1,76 @@
+[ST-INFO] [WLC] Chip Id Command: 00 00
+[ST-INFO] [WLC] Chip Id : 0x0026
+[ST-INFO] [WLC] Chip Revision : 0x03
+[ST-INFO] [WLC] Customer Id : 0x00
+[ST-INFO] [WLC] Rom Id : 0x0161
+[ST-INFO] [WLC] NVM Patch Id : 0xD444
+[ST-INFO] [WLC] RAM Patch Id : 0x0000
+[ST-INFO] [WLC] Cfg Id : 0x1F47
+[ST-INFO] [WLC] PE Id : 0x0007
+[ST-INFO] Chip Info: 26 00 03 
+[ST-INFO] [WLC] NVM Programming started
+[ST-INFO] [WLC] ChipID: 0026 Chip Revision: 03 CustomerID: 00 RomID: 0161 NVMPatchID: D444 RAMPatchID: 0000 CFG: 1F47 PE: 0007
+[ST-INFO] [WLC] Chip Id: 26
+[ST-INFO] [WLC] Cut Id: 03
+[ST-INFO] [WLC] Patch ID mismatch - running|header: [D444|1437]
+[ST-INFO] [WLC] OP MODE 01
+[ST-INFO] [WLC] OP MODE 01
+[ST-INFO] [WLC] RRAM Programming..
+[ST-INFO] [WLC] writing sector 00
+[ST-INFO] [WLC] writing sector 01
+[ST-INFO] [WLC] writing sector 02
+[ST-INFO] [WLC] writing sector 03
+[ST-INFO] [WLC] writing sector 04
+[ST-INFO] [WLC] writing sector 05
+[ST-INFO] [WLC] writing sector 06
+[ST-INFO] [WLC] writing sector 07
+[ST-INFO] [WLC] writing sector 08
+[ST-INFO] [WLC] writing sector 09
+[ST-INFO] [WLC] writing sector 0A
+[ST-INFO] [WLC] writing sector 0B
+[ST-INFO] [WLC] writing sector 0C
+[ST-INFO] [WLC] writing sector 0D
+[ST-INFO] [WLC] writing sector 0E
+[ST-INFO] [WLC] writing sector 0F
+[ST-INFO] [WLC] writing sector 10
+[ST-INFO] [WLC] writing sector 11
+[ST-INFO] [WLC] writing sector 12
+[ST-INFO] [WLC] writing sector 13
+[ST-INFO] [WLC] writing sector 14
+[ST-INFO] [WLC] writing sector 15
+[ST-INFO] [WLC] writing sector 16
+[ST-INFO] [WLC] writing sector 17
+[ST-INFO] [WLC] writing sector 18
+[ST-INFO] [WLC] writing sector 19
+[ST-INFO] [WLC] writing sector 1A
+[ST-INFO] [WLC] writing sector 1B
+[ST-INFO] [WLC] writing sector 1C
+[ST-INFO] [WLC] writing sector 1D
+[ST-INFO] [WLC] writing sector 1E
+[ST-INFO] [WLC] writing sector 1F
+[ST-INFO] [WLC] writing sector 20
+[ST-INFO] [WLC] writing sector 21
+[ST-INFO] [WLC] writing sector 22
+[ST-INFO] [WLC] writing sector 23
+[ST-INFO] [WLC] writing sector 24
+[ST-INFO] [WLC] writing sector 25
+[ST-INFO] [WLC] writing sector 26
+[ST-INFO] [WLC] writing sector 27
+[ST-INFO] [WLC] writing sector 28
+[ST-INFO] [WLC] writing sector 29
+[ST-INFO] [WLC] writing sector 2A
+[ST-INFO] [WLC] writing sector 2B
+[ST-INFO] [WLC] writing sector 2C
+[ST-INFO] [WLC] writing sector 2D
+[ST-INFO] [WLC] writing sector 2E
+[ST-INFO] [WLC] writing sector 2F
+[ST-INFO] [WLC] writing sector 30
+[ST-INFO] [WLC] writing sector 31
+[ST-INFO] [WLC] writing sector 7E
+[ST-INFO] [WLC] writing sector 7F
+[ST-INFO] [WLC] NVM programming completed, now checking patch and cfg id
+[ST-INFO] [WLC] ChipID: 0026 Chip Revision: 03 CustomerID: 00 RomID: 0161 NVMPatchID: 1437 RAMPatchID: 0000 CFG: 1F47 PE: 0007
+[ST-INFO] [WLC] NVM patch and cfg id is OK
+[ST-INFO] [WLC] NVM Programming is successful
+[ST-INFO] [WLC] NVM programming exited
+[ST-INFO] { 00000000 }

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stsw-wlc38rx-nvm_data.h": "c",
+			"stwlc38.h": "c"
+		}
+	}
+}
